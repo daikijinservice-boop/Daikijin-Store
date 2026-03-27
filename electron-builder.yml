@@ -1,5 +1,6 @@
-appId: gg.hydralauncher.hydra
-productName: Hydra
+appId: com.daikijin.store
+productName: Daikijin-Store
+copyright: Copyright © 2026 Daikijin Service
 directories:
   buildResources: build
 extraResources:
