@@ -1,12 +1,12 @@
 {
-  "name": "hydralauncher",
+  "name": "daikijin-store",
   "version": "3.9.4",
-  "description": "Hydra",
+  "description": "Daikijin Store",
   "main": "./out/main/index.js",
-  "author": "Los Broxas",
+  "author": "Daikijin Service",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hydralauncher/hydra.git"
+    "url": "https://github.com/daikijinservice-boop/Daikijin-Store.git"
   },
   "type": "module",
   "engines": {
